@@ -1,0 +1,16 @@
+.footer {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 100px;
+  background-color: rgb(206, 211, 211);
+  margin-top: 10px;
+  
+}
+
+.footer img {
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+}

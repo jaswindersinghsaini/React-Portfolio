@@ -1,0 +1,20 @@
+
+.container{
+    background: rgb(128, 188, 211);
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.resumeDownload{
+    float: right;
+}
+.skillItem {
+    padding: 10px;
+}
+
+.skillList {
+    display: flex;
+    list-style-type: none;
+    align-items: baseline;
+    flex-wrap: wrap;
+}

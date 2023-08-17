@@ -1,0 +1,67 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: rgb(122, 201, 201);
+}
+
+.portfolio h2 {
+    color: black;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-template-columns: repeat(2,1fr);
+    padding-bottom: 20px;
+    gap: 20px;
+}
+
+.images a {
+    position: relative;
+    display: block;
+}
+
+.images img {
+    width: 800px;
+    height: 500px;
+}
+
+.image-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  rgb(38, 55, 211);
+    border-style: solid;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.images a:hover .image-container{
+    opacity: 1;
+}
+
+.images a:hover img{
+    filter: blur(2.5px);
+}
+
+@media screen and (max-width: 830px)
+{ 
+    body {
+        display: flex;
+    }
+
+    img {
+        width: auto;
+    } 
+}
