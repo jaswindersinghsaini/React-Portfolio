@@ -30,4 +30,5 @@
 
 ## Questions
   * Github Repo: https://github.com/jaswindersinghsaini
-  * Github pages: 
+  * Github Deployed pages: https://jaswindersinghsaini.github.io/React-Portfolio/
+  
