@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.7159b791.css",
+    "main.js": "/React-Portfolio/static/js/main.fa7b2ded.js",
+    "static/media/Prof.png": "/React-Portfolio/static/media/Prof.25fe88053f61faa5e0d2.png",
+    "static/media/TimeCap.png": "/React-Portfolio/static/media/TimeCap.07745d992a3a23c58c51.png",
+    "static/media/MealGen.png": "/React-Portfolio/static/media/MealGen.71dd8f38d163590ff121.png",
+    "static/media/SampleResume.docx": "/React-Portfolio/static/media/SampleResume.45604608a993136f1d97.docx",
+    "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.5117fa7224c3c4a1629d.png",
+    "static/media/QuizQuestions.png": "/React-Portfolio/static/media/QuizQuestions.fd901917f91a3107aa7d.png",
+    "static/media/Workday.png": "/React-Portfolio/static/media/Workday.e7bc3fbf8bf690f2e818.png",
+    "static/media/JateApp.png": "/React-Portfolio/static/media/JateApp.16476c5706e893ba82eb.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.7159b791.css.map": "/React-Portfolio/static/css/main.7159b791.css.map",
+    "main.fa7b2ded.js.map": "/React-Portfolio/static/js/main.fa7b2ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7159b791.css",
+    "static/js/main.fa7b2ded.js"
+  ]
+}
